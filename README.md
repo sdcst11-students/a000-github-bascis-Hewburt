@@ -1,4 +1,4 @@
-# :wave: The Basics of GitHub 
+# :wave: First Ben
 
 ## 🤓 Course overview and learning outcomes 
 
